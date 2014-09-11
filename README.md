@@ -8,7 +8,7 @@ For this week's assessment we will be building the interface to a todo list app 
 
 listo is a neat todo list app that allows users to create multiple lists, and allows list items to move through a process of being **new**, **in progress**, and **archived**.
 
-Follow the interface as closely as possible, as you will be graded on accuracy. 
+Follow the interface as closely as possible, as you will be critiqued on accuracy. 
 
 Fork this repo and clone it down into your computer. You will find your index.html and style.css files are included, along with a .png file of how the interface should look. 
 
